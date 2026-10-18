@@ -1,0 +1,61 @@
+{
+  "duration": 900.0,
+  "chapters": [
+    {
+      "id": "c01",
+      "kicker": "01",
+      "title": "El mensaje que no se borra",
+      "blurb": "Un país intenta apagar una conversación. El mensaje llega igual. No es magia: es diseño.",
+      "start": 0.0
+    },
+    {
+      "id": "c02",
+      "kicker": "02",
+      "title": "Los hermanos",
+      "blurb": "Pavel y Nikolai Durov, VKontakte, y el día en que negarse al poder costó una empresa.",
+      "start": 77.11
+    },
+    {
+      "id": "c03",
+      "kicker": "03",
+      "title": "14 de agosto de 2013",
+      "blurb": "Nace Telegram. Y la verdad incómoda: la fortaleza de extremo a extremo es opcional.",
+      "start": 182.54
+    },
+    {
+      "id": "c04",
+      "kicker": "04",
+      "title": "De app a imperio",
+      "blurb": "Bots, canales y una migración: de 35 millones a más de mil millones de personas.",
+      "start": 296.99
+    },
+    {
+      "id": "c05",
+      "kicker": "05",
+      "title": "El bloqueo que fracasó",
+      "blurb": "Rusia intenta apagar Telegram en 2018. En 2020 levanta el bloqueo. En 2026 vuelve a estrangularlo.",
+      "start": 410.94
+    },
+    {
+      "id": "c06",
+      "kicker": "06",
+      "title": "Mil setecientos millones",
+      "blurb": "TON, el juicio de Estados Unidos, la deuda devuelta y el año en que el exilio se volvió negocio.",
+      "start": 516.13
+    },
+    {
+      "id": "c07",
+      "kicker": "07",
+      "title": "París",
+      "blurb": "24 de agosto de 2024. Le Bourget. Acusaciones graves, ninguna condena, y una contradicción que no cabe en un anuncio.",
+      "start": 650.45
+    },
+    {
+      "id": "c08",
+      "kicker": "08",
+      "title": "Sígueme",
+      "blurb": "El diseño no fue un accidente. Si quieres el siguiente documental, el canal es InodeAi.",
+      "start": 774.4
+    }
+  ]
+}
